@@ -1,5 +1,5 @@
 # PHP-KTra
-Phạm Tấn Nhạc
-MSV: 16T1021110
-username: nhac1998@gmail.com
+Dương Văn Lợi
+16T1021086
+username: Loi1234
 pass: 123
