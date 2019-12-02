@@ -46,7 +46,7 @@
 				</div>
 				<div class="form-group">
 					<div class="">
-						<button type="submit" name="update" class=" text-white btn btn-warning">
+						<button type="submit" name="update" class="btn btn-outline-success mr-3">
 							<i class="fas fa-edit">Update</i> 
 						</button>
 					</div>
